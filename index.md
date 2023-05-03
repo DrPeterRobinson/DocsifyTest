@@ -21,3 +21,7 @@ gantt
 ```
 
 Wasn't that fun?
+
+There might be an icon here
+
+:fas fa-calendar fa-fw: Week 1 (May 9 - 15)
